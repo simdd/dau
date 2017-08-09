@@ -4,4 +4,4 @@
 
 'use strict'
 
-module.exports = require('./lib/fon')
+module.exports = require('./lib/son')
