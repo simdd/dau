@@ -16,11 +16,11 @@ app.use(function (req, res, next) {
 })
 
 app.use(function (req, res, next) {
-    console.log(2)
     next()
 })
 
 app.use(function (req, res, next) {
+    console.log('-----------', req.ip)
     res.html(path.resolve(__dirname, './index.html'))
 })
 
