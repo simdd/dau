@@ -1,22 +1,20 @@
 {
-  "name": "sim-son",
+  "name": "sim-dau",
   "version": "0.0.1",
-  "description": "web framework of node",
+  "description": "the javaScript framework",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "nodemon test/index"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simdd/son.git"
+    "url": "git+https://github.com/simdd/dau.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simdd/son/issues"
+    "url": "https://github.com/simdd/dau/issues"
   },
-  "homepage": "https://github.com/simdd/son#readme"
+  "homepage": "https://github.com/simdd/dau#readme"
 }
