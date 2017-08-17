@@ -1,7 +1,7 @@
 {
-  "name": "son",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sim-son",
+  "version": "0.0.1",
+  "description": "web framework of node",
   "main": "index.js",
   "directories": {
     "lib": "lib"
