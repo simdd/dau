@@ -1,2 +1,2 @@
 # Dau
-### the javaScript framework
+### a mvvm framework
