@@ -24,4 +24,6 @@ app.use(function (req, res, next) {
     res.html(path.resolve(__dirname, './index.html'))
 })
 
+app.err('Page Not Found')
+
 app.listen(80)
